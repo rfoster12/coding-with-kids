@@ -3,7 +3,7 @@ Content
 
 Accepted Content Guidelines
 +++++++++++++++++++++++++++
-This is a test
+This is a test to see how continuous integration works.
 
 .. image:: /images/PiAndSenseHAT.jpg
 
