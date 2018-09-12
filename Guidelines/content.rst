@@ -9,7 +9,7 @@ This is a test to see how continuous integration works.
 
 
 
-
+Here is a **shiny** new note
 
 
 Making Suggestions
